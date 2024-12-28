@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LanCraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1f060485138b5731a261e0fd3a299b25d652715a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+789025b59bc6682515db5b2599c2335d935e2e93")]
 [assembly: System.Reflection.AssemblyProductAttribute("LanCraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LanCraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

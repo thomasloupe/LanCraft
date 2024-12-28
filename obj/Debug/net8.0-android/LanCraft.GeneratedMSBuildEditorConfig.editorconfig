@@ -12,79 +12,79 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LanCraft
-build_property.ProjectDir = D:\GitHub Projects\LanCraft\LanCraft\
+build_property.ProjectDir = D:\GitHub Projects\LanCraft\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/GitHub Projects/LanCraft/LanCraft/App.xaml]
+[D:/GitHub Projects/LanCraft/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/AppShell.xaml]
+[D:/GitHub Projects/LanCraft/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/MainPage.xaml]
+[D:/GitHub Projects/LanCraft/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/Pages/AddDevicePage.xaml]
+[D:/GitHub Projects/LanCraft/Pages/AddDevicePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.Pages.AddDevicePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\AddDevicePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AddDevicePage.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/Pages/HomePage.xaml]
+[D:/GitHub Projects/LanCraft/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.Pages.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/Pages/RemoveDevicePage.xaml]
+[D:/GitHub Projects/LanCraft/Pages/RemoveDevicePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.Pages.RemoveDevicePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\RemoveDevicePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\RemoveDevicePage.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/Pages/SettingsPage.xaml]
+[D:/GitHub Projects/LanCraft/Pages/SettingsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.Pages.SettingsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\SettingsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\SettingsPage.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/Pages/TestNetworkPage.xaml]
+[D:/GitHub Projects/LanCraft/Pages/TestNetworkPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.Pages.TestNetworkPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\TestNetworkPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\TestNetworkPage.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/Pages/UpdateDevicePage.xaml]
+[D:/GitHub Projects/LanCraft/Pages/UpdateDevicePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.Pages.UpdateDevicePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\UpdateDevicePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\UpdateDevicePage.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/Pages/VisualizePage.xaml]
+[D:/GitHub Projects/LanCraft/Pages/VisualizePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.Pages.VisualizePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\VisualizePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\VisualizePage.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/Resources/Styles/Colors.xaml]
+[D:/GitHub Projects/LanCraft/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/GitHub Projects/LanCraft/LanCraft/Resources/Styles/Styles.xaml]
+[D:/GitHub Projects/LanCraft/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = LanCraft.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

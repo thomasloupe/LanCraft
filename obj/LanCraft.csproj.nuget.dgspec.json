@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub Projects\\LanCraft\\LanCraft\\LanCraft.csproj": {}
+    "D:\\GitHub Projects\\LanCraft\\LanCraft.csproj": {}
   },
   "projects": {
-    "D:\\GitHub Projects\\LanCraft\\LanCraft\\LanCraft.csproj": {
+    "D:\\GitHub Projects\\LanCraft\\LanCraft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub Projects\\LanCraft\\LanCraft\\LanCraft.csproj",
+        "projectUniqueName": "D:\\GitHub Projects\\LanCraft\\LanCraft.csproj",
         "projectName": "LanCraft",
-        "projectPath": "D:\\GitHub Projects\\LanCraft\\LanCraft\\LanCraft.csproj",
+        "projectPath": "D:\\GitHub Projects\\LanCraft\\LanCraft.csproj",
         "packagesPath": "C:\\Users\\acid_rain\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub Projects\\LanCraft\\LanCraft\\obj\\",
+        "outputPath": "D:\\GitHub Projects\\LanCraft\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
