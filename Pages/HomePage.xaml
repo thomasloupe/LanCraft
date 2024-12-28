@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage 
+    x:Class="LanCraft.Pages.HomePage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Home">
+
+    <ScrollView>
+        <VerticalStackLayout 
+            Padding="20" 
+            Spacing="10"
+            HorizontalOptions="Center">
+
+            <Label 
+                Text="Welcome to LanCraft .NET MAUI!" 
+                FontAttributes="Bold" 
+                FontSize="24"
+                HorizontalOptions="Center" />
+
+            <Label 
+                Text="Manage and visualize your network in style." 
+                FontSize="18"
+                HorizontalOptions="Center" />
+
+            <Frame 
+                Padding="10"
+                CornerRadius="10"
+                Margin="0,20,0,0"
+                BackgroundColor="LightGray"
+                WidthRequest="300"
+                HorizontalOptions="Center">
+                <VerticalStackLayout>
+                    <Label Text="Total Devices: " x:Name="LabelTotalDevices" />
+                    <Label Text="WAN Devices: " x:Name="LabelWanDevices" />
+                    <Label Text="Total Ports: " x:Name="LabelTotalPorts" />
+                </VerticalStackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

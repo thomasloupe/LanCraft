@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage 
+    x:Class="LanCraft.Pages.UpdateDevicePage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:models="clr-namespace:LanCraft.Models"
+    Title="Update Device">
+
+    <ScrollView>
+        <VerticalStackLayout 
+            Padding="20" 
+            Spacing="10"
+            HorizontalOptions="Center">
+            <!-- center the stack -->
+
+            <Label 
+                Text="Select a device to update:" 
+                FontAttributes="Bold" 
+                FontSize="16"
+                HorizontalOptions="Center" />
+
+            <!-- Devices Picker -->
+            <Picker x:Name="DevicePicker"
+                    Title="Select Device"
+                    ItemDisplayBinding="{Binding DeviceName}"
+                    SelectedIndexChanged="DevicePicker_SelectedIndexChanged"
+                    WidthRequest="300" 
+                    HorizontalOptions="Center" />
+
+            <Entry x:Name="DeviceNickname" Placeholder="Device Nickname (optional)" 
+                   WidthRequest="300" HorizontalOptions="Center" />
+            <Entry x:Name="IPv4" Placeholder="IPv4 (required)" 
+                   WidthRequest="300" HorizontalOptions="Center" />
+            <Entry x:Name="IPv6" Placeholder="IPv6 (optional)" 
+                   WidthRequest="300" HorizontalOptions="Center" />
+
+            <!-- WAN Check -->
+            <HorizontalStackLayout Spacing="5"
+                                   HorizontalOptions="Center">
+                <CheckBox x:Name="HasWan" />
+                <Label Text="Has WAN?" VerticalOptions="Center" />
+            </HorizontalStackLayout>
+
+            <!-- WAN Section -->
+            <StackLayout x:Name="WanSection" IsVisible="false"
+                         HorizontalOptions="Center">
+                <Entry x:Name="WanAddress" 
+                       Placeholder="WAN IP Address" 
+                       WidthRequest="300" />
+                <Entry x:Name="LinkSpeed" 
+                       Placeholder="Link Speed (e.g. '100 Mbps')" 
+                       WidthRequest="300" />
+            </StackLayout>
+
+            <Button 
+                Text="Update Device" 
+                Clicked="OnUpdateDeviceClicked" 
+                BackgroundColor="CornflowerBlue"
+                TextColor="White"
+                WidthRequest="300" 
+                HorizontalOptions="Center" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

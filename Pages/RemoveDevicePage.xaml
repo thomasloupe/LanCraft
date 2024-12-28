@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage 
+    x:Class="LanCraft.Pages.RemoveDevicePage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:models="clr-namespace:LanCraft.Models"
+    Title="Remove Device">
+
+    <ScrollView>
+        <VerticalStackLayout 
+            Padding="20" 
+            Spacing="10"
+            HorizontalOptions="Center">
+
+            <Label 
+                Text="Select a device to remove:" 
+                FontAttributes="Bold"
+                FontSize="16"
+                HorizontalOptions="Center" />
+
+            <!-- Picker listing all current devices -->
+            <Picker x:Name="DevicePicker"
+                    Title="Select Device"
+                    ItemDisplayBinding="{Binding DeviceName}"
+                    WidthRequest="300"
+                    HorizontalOptions="Center" />
+
+            <Button 
+                Text="Remove Device"
+                Clicked="OnRemoveDeviceClicked"
+                BackgroundColor="Crimson"
+                TextColor="White"
+                WidthRequest="300"
+                HorizontalOptions="Center" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

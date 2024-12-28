@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell
+    x:Class="LanCraft.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:LanCraft.Pages"
+    Title="LanCraft">
+
+    <!-- Flyout/Sidebar items -->
+    <FlyoutItem Title="Home">
+        <ShellContent ContentTemplate="{DataTemplate pages:HomePage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Visualize Network">
+        <ShellContent ContentTemplate="{DataTemplate pages:VisualizePage}" />
+    </FlyoutItem>
+    
+    <FlyoutItem Title="Add Device">
+        <ShellContent ContentTemplate="{DataTemplate pages:AddDevicePage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Update Device">
+        <ShellContent ContentTemplate="{DataTemplate pages:UpdateDevicePage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Remove Device">
+        <ShellContent ContentTemplate="{DataTemplate pages:RemoveDevicePage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Test Network">
+        <ShellContent ContentTemplate="{DataTemplate pages:TestNetworkPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Settings">
+        <ShellContent ContentTemplate="{DataTemplate pages:SettingsPage}" />
+    </FlyoutItem>
+
+</Shell>

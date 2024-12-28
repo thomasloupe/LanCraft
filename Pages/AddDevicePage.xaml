@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    x:Class="LanCraft.Pages.AddDevicePage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Add Device">
+
+    <ScrollView>
+        <!-- Main vertical stack for the form -->
+        <VerticalStackLayout
+            Padding="20"
+            Spacing="15"
+            HorizontalOptions="Center"> <!-- Center horizontally in the page -->
+
+            <Label 
+                Text="Add a New Device" 
+                FontAttributes="Bold" 
+                FontSize="24"
+                HorizontalOptions="Center"/>  <!-- Center the label text block -->
+
+                <!-- Example: limit each Entry to 300px and center it -->
+                <Entry x:Name="DeviceImageUrl" 
+                   Placeholder="Image URL (Optional)" 
+                   WidthRequest="300" 
+                   HorizontalOptions="Center" />
+
+                <Entry x:Name="DeviceName" 
+                   Placeholder="Device Name (required)" 
+                   WidthRequest="300" 
+                   HorizontalOptions="Center" />
+
+                <Entry x:Name="DeviceNickname" 
+                   Placeholder="Device Nickname (optional)" 
+                   WidthRequest="300" 
+                   HorizontalOptions="Center" />
+
+                <Entry x:Name="IPv4" 
+                   Placeholder="IPv4 (required)" 
+                   WidthRequest="300" 
+                   HorizontalOptions="Center" />
+
+                <Entry x:Name="IPv6" 
+                   Placeholder="IPv6 (optional)" 
+                   WidthRequest="300" 
+                   HorizontalOptions="Center" />
+
+                <!-- WAN check -->
+                <HorizontalStackLayout Spacing="5"
+                                   HorizontalOptions="Center">
+                    <CheckBox x:Name="HasWan" />
+                    <Label Text="Has WAN?" VerticalOptions="Center" />
+                </HorizontalStackLayout>
+
+                <!-- WAN section displayed/hidden in code-behind -->
+                <StackLayout x:Name="WanSection" IsVisible="false"
+                         HorizontalOptions="Center">
+                    <Entry x:Name="WanAddress" 
+                       Placeholder="WAN IP Address" 
+                       WidthRequest="300" />
+                    <Entry x:Name="LinkSpeed" 
+                       Placeholder="Link Speed (e.g. 100 Mbps)" 
+                       WidthRequest="300" />
+                </StackLayout>
+
+                <!-- Submit button, also narrower & centered -->
+                <Button 
+                Text="Add Device" 
+                WidthRequest="300" 
+                HorizontalOptions="Center" 
+                Clicked="OnAddDeviceClicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage 
+    x:Class="LanCraft.Pages.VisualizePage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:models="clr-namespace:LanCraft.Models"
+    Title="Visualize Network">
+
+    <ScrollView>
+        <VerticalStackLayout 
+            Padding="20" 
+            Spacing="10"
+            HorizontalOptions="Center">
+            <!-- Center the entire column -->
+
+            <Label 
+                Text="Network Visualization" 
+                FontAttributes="Bold" 
+                FontSize="24" 
+                HorizontalOptions="Center" />
+
+            <!-- Example listing of devices -->
+            <CollectionView x:Name="DevicesCollectionView"
+                            WidthRequest="400"
+                HorizontalOptions="Center">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="models:DeviceModel">
+                        <Frame Padding="10" Margin="5" BorderColor="Gray">
+                            <VerticalStackLayout>
+                                <Label Text="{Binding DeviceName}" FontAttributes="Bold" />
+                                <Label Text="{Binding IPv4}" />
+                                <Label Text="{Binding DeviceNickname}" FontAttributes="Italic" />
+                                <Label Text="WAN Device: Yes" IsVisible="{Binding HasWan}" />
+                            </VerticalStackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

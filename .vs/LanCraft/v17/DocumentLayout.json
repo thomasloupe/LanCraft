@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\LanCraft\\LanCraft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\removedevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\removedevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\testnetworkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\testnetworkpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\updatedevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\updatedevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\visualizepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\visualizepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\updatedevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\updatedevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\appdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:appdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\testnetworkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\testnetworkpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\models\\devicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:models\\devicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\adddevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\adddevicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\visualizepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\visualizepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\removedevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\removedevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\adddevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\adddevicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|d:\\github projects\\lancraft\\lancraft\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D67AD-1E65-43AF-9221-D5722FD3D509}|LanCraft.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VisualizePage.xaml",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\VisualizePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\VisualizePage.xaml",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\VisualizePage.xaml",
+              "RelativeToolTip": "Pages\\VisualizePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T06:16:11.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateDevicePage.xaml",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\UpdateDevicePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\UpdateDevicePage.xaml",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\UpdateDevicePage.xaml",
+              "RelativeToolTip": "Pages\\UpdateDevicePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T06:13:15.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "SettingsManager.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\SettingsManager.cs",
+              "RelativeToolTip": "SettingsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:17:58.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateDevicePage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\UpdateDevicePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\UpdateDevicePage.xaml.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\UpdateDevicePage.xaml.cs",
+              "RelativeToolTip": "Pages\\UpdateDevicePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:13:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestNetworkPage.xaml",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\TestNetworkPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\TestNetworkPage.xaml",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\TestNetworkPage.xaml",
+              "RelativeToolTip": "Pages\\TestNetworkPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T06:16:44.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\SettingsPage.xaml",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\SettingsPage.xaml",
+              "RelativeToolTip": "Pages\\SettingsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T06:17:10.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveDevicePage.xaml",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\RemoveDevicePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\RemoveDevicePage.xaml",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\RemoveDevicePage.xaml",
+              "RelativeToolTip": "Pages\\RemoveDevicePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T06:13:44.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\HomePage.xaml",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "Pages\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T05:00:54.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestNetworkPage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\TestNetworkPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\TestNetworkPage.xaml.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\TestNetworkPage.xaml.cs",
+              "RelativeToolTip": "Pages\\TestNetworkPage.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAWwDgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:16:57.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\SettingsPage.xaml.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "Pages\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:17:29.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeviceModel.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Models\\DeviceModel.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceModel.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Models\\DeviceModel.cs",
+              "RelativeToolTip": "Models\\DeviceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:04:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDataManager.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\AppDataManager.cs",
+              "RelativeDocumentMoniker": "AppDataManager.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\AppDataManager.cs",
+              "RelativeToolTip": "AppDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:09:56.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddDevicePage.xaml",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\AddDevicePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddDevicePage.xaml",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\AddDevicePage.xaml",
+              "RelativeToolTip": "Pages\\AddDevicePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T05:02:46.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T04:57:31.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RemoveDevicePage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\RemoveDevicePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\RemoveDevicePage.xaml.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\RemoveDevicePage.xaml.cs",
+              "RelativeToolTip": "Pages\\RemoveDevicePage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:14:01.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VisualizePage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\VisualizePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\VisualizePage.xaml.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\VisualizePage.xaml.cs",
+              "RelativeToolTip": "Pages\\VisualizePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:16:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddDevicePage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\AddDevicePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddDevicePage.xaml.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\AddDevicePage.xaml.cs",
+              "RelativeToolTip": "Pages\\AddDevicePage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:03:11.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\HomePage.xaml.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "Pages\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:02:12.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:59:54.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\LanCraft\\LanCraft\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\GitHub Projects\\LanCraft\\LanCraft\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:58:55.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

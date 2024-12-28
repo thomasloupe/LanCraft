@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    x:Class="LanCraft.Pages.TestNetworkPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Test Network">
+
+    <ScrollView>
+        <VerticalStackLayout 
+            Padding="20" 
+            Spacing="10"
+            HorizontalOptions="Center">
+
+            <Label 
+                Text="Network Connectivity Test" 
+                FontAttributes="Bold" 
+                FontSize="24"
+                HorizontalOptions="Center" />
+
+            <Button 
+                Text="Run Test"
+                Clicked="OnTestNetworkClicked"
+                WidthRequest="200"
+                HorizontalOptions="Center" />
+
+            <CollectionView x:Name="ResultsCollectionView"
+                            WidthRequest="400" 
+                            HorizontalOptions="Center">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Padding="10" Margin="5" BorderColor="Gray">
+                            <VerticalStackLayout>
+                                <Label Text="{Binding DeviceName}" FontAttributes="Bold" />
+                                <Label Text="{Binding Status}" />
+                            </VerticalStackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
